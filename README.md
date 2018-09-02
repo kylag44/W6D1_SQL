@@ -103,7 +103,7 @@ WHERE some_column = some_value
 
 # [fit] SQLite Data Types
 
-NULL
+NULL - no value (use *IS NULL*)
 INTEGER - signed integer
 REAL - 8 byte floating point integer
 TEXT - UTF-8/16BE/16LE string
@@ -141,8 +141,6 @@ BLOB - binary data
 # [fit] Tools
 
 [http://sqlitebrowser.org/](http://sqlitebrowser.org/)
-
-# [fit] Joins <br>Demo
 
 # [fit]Demo
 
